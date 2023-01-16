@@ -4,6 +4,15 @@ Typography
 
 -------------------------------- */
 
+@font-face {
+  font-family: "Bellafair-Regular";
+  // src: local('../../')
+  src: local("../../assets/fonts/Bellefair-Regular.ttf") format("truetype");
+  // src: local('Opensans-Bold'), url(@/assets/styles/fonts/OpenSans-Bold.ttf) format('truetype');
+}
+
+$bellaFair: "Bellafair-Regular";
+
 /*
 Base 16px, Major Third - 1.250
 
@@ -20,7 +29,7 @@ Base 16px, Major Third - 1.250
 1rem/16.00px - base
 */
 
-$font-primary: sans-serif;
+$font-primary: $bellaFair;
 $font-secondary: serif;
 
 /* Line Height */
