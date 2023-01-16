@@ -1,0 +1,19 @@
+$baseline: 24px;
+
+/* spacing values */
+$space-sm: calc($baseline / 2);
+$space-md: $baseline;
+$space-lg: calc($baseline * 2);
+$space-xl: calc($baseline * 3);
+
+h1 {
+  margin-bottom: $space-lg;
+}
+
+h2 {
+  margin-bottom: $space-md;
+}
+
+p {
+  margin-bottom: $space-sm;
+}

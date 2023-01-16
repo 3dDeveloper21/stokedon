@@ -1,0 +1,13 @@
+Base 16px, Major Third - 1.250
+
+
+7.451rem/119.21px yes
+5.96rem/95.37px	yes
+4.768rem/76.29px yes	
+3.815rem/61.04px yes
+3.052rem/48.83px  yes
+2.441rem/39.06px  yes
+1.953rem/31.25px  yes
+1.563rem/25.00px yes
+1.25rem/20.00px	 yes
+1rem/16.00px - base
